@@ -253,4 +253,4 @@ if __name__ == '__main__':
     followed_mm.start()
     follow_male = CrawlGo('follow_male')
     follow_male.start()
-    print '....................over........................'
+    print '....................over...........................'
